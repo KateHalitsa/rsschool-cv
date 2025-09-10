@@ -42,3 +42,5 @@ function EditFilm(res, id)
 __Belarusian State University of Informatics and radio electronics, Minsk__
 
 Faculty of Engineering and Economics, specialty information systems and technologies (in economics)
+ Duration of study: September 2021 - May 2025
+
