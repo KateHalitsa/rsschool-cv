@@ -1,12 +1,12 @@
 # Catherina Halitsa
 
-![Image](image.png "Foto")
+![Image](/images/image.png "Foto")
 
 ## My Contact Info:
 * __Phone__: _+3752983737438_
 * __E-mail__: _kate.halitsa@gmail.com_
-* __LinkedIn__: _www.linkedin.com/in/екатерина-галица-3730a9318_
-* __GitHub:__: _https://github.com/KateHalitsa_
+* __LinkedIn__: _[www.linkedin.com/in/екатерина-галица-3730a9318](https://www.linkedin.com/in/екатерина-галица-3730a9318)_
+* __GitHub:__: _[https://github.com/KateHalitsa](https://github.com/KateHalitsa)_
 
 ## About Me
 I am a graduate of BSUIR. I have already learned a lot of subjects related to economics and computer science, but sometimes I don't confident in my knowledge and which direction to choose, so I deside to deepen my knowledge related to front-end.
