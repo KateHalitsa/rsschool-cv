@@ -28,3 +28,30 @@ header,main,.info {
 footer{
     background-color: #fafafa;
 }
+
+nav {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 30px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px 25px;
+
+    margin: 0;
+    padding: 15px 0;
+    list-style: none;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+nav a:hover {
+    color: #666;
+    text-decoration: underline;
+}
